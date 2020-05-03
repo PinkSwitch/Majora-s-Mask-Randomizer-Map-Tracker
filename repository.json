@@ -1,0 +1,46 @@
+{
+
+    "name": "Pink Switch Package Repository",
+    "packages": [
+        {
+            "name": "Majora's Mask Randomizer Map Tracker",
+            "game_name": "Majora's Mask Randomizer",
+            "author": "Rikkukun, Pink Switch, and epicYoshi",
+            "version": "3.0",
+            "uid": "mmrando_rikkukun_pink",
+            "link": "https://github.com/PinkSwitch/Majora-s-Mask-Randomizer-Map-Tracker/blob/master/mmrando_pink.zip?raw=true",
+            "variants": [
+                {
+                    "name": "Map Tracker",
+                    "flags": [
+                        "map",
+                        "pins",
+                        "chathud"
+
+                    ]
+                },
+                {
+                    "name": "Standard",
+                    "flags": [
+                        "chathud"
+                    ]
+
+                },
+                {
+                    "name": "Minimal",
+                    "flags": [
+                    "chathud"
+                    ]
+                },
+                {
+                    "name": "Accessible Settings",
+                    "flags": [
+                        "map",
+                        "pins",
+                        "chathud"
+                    ]
+                }
+            ]
+        }
+    ]
+}
