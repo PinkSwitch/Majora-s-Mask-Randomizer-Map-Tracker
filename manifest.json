@@ -1,0 +1,21 @@
+﻿{
+  "name": "MM Randomizer Map Tracker",
+  "game_name": "Majora's Mask Randomizer",
+  "package_version": "5.0.2",
+  "package_uid": "mmrando_pink",
+  "author": "Rikkukun, Pink Switch, and epicYoshi",
+  "variants": {
+	"var_maptracker": {
+      "display_name": "Map Tracker"
+    },
+    "var_standard": {
+      "display_name": "Standard"
+    },
+	"var_minimal": {
+      "display_name": "Minimal"
+    },
+    "var_accessible": {
+      "display_name": "Accessible Settings"
+    }
+  }
+}
